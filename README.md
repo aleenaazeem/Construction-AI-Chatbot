@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Construction AI Q&A Engine" width="100%" />
+  <img src="ChatGPT Image Sep 10, 2025, 11_06_35 PM.png" alt="Construction AI Q&A Engine" width="100%" />
 </p>
 
 🏗️ Construction AI Q&A Engine
