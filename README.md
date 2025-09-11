@@ -46,34 +46,13 @@ We’re building toward a **next-gen construction intelligence layer**:
 
 ---
 
-## 🏗️ Architecture  
 
+## 🏗️ System Architecture  
 
+<p align="center">
+  <img src="architecture.png" alt="Construction AI Q&A Engine Architecture" width="80%" />
+</p>
 
-🏗️ Architecture
-   [Integrations: Procore, Autodesk, Dropbox]
-                │
-         Data Ingestion Layer
-     ───────────────────────────
-     ▪ OCR + Text Extraction
-     ▪ Metadata Tagging
-     ▪ Document Chunking
-                │
-         Embedding & Retrieval
-     ───────────────────────────
-     ▪ Vector Database (e.g., Pinecone, Weaviate, FAISS)
-     ▪ Embedding Model (e.g., OpenAI, Hugging Face)
-                │
-          Q&A + Discrepancy Layer
-     ───────────────────────────
-     ▪ Contextual Retrieval
-     ▪ Generative AI Answering
-     ▪ Conflict Detection Rules
-                │
-            User Interface
-     ───────────────────────────
-     ▪ Web App (React/Next.js, Flask/FastAPI backend)
-     ▪ API for integration with PM tools
 
 ⚙️ Tech Stack
 
