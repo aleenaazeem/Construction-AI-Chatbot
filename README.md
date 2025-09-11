@@ -2,60 +2,53 @@
   <img src="ChatGPT Image Sep 10, 2025, 11_06_35 PM.png" alt="Construction AI Q&A Engine" width="100%" />
 </p>
 
-🏗️ Construction AI Q&A Engine
+<h1 align="center">🏗️ Construction AI Q&A Engine</h1>
 
-A smarter way for construction teams to find answers and avoid costly mistakes.
+<p align="center">
+  <b>A smarter way for construction teams to find answers and avoid costly mistakes.</b>
+</p>
 
-This project integrates with tools like Autodesk, Procore, and Primavera to bring all your project data into one place. Using AI-powered search and discrepancy detection, it helps teams:
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI-Powered-blue" alt="AI Powered"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Status-Active%20Development-orange" alt="Status"></a>
+</p>
 
-✅ Get instant answers from drawings, RFIs, submittals, and schedules
-✅ Reduce delays and rework by catching conflicts early
-✅ Save hours otherwise lost to hunting through documents
+---
 
-🌟 Why It Matters
+## 🌟 Why It Matters  
 
-Construction projects generate massive amounts of data scattered across multiple platforms. Our system transforms this complexity into a single, intelligent knowledge hub, enabling engineers, site managers, and executives to:
+Construction projects generate massive amounts of data scattered across multiple platforms. Our system transforms this complexity into a **single, intelligent knowledge hub**, enabling engineers, site managers, and executives to:  
 
-Ask natural language questions (e.g., “Show me all RFIs related to HVAC installation”)
+- Ask natural language questions (e.g., “Show me all RFIs related to HVAC installation”)  
+- Get cited answers from the right documents instantly  
+- Detect discrepancies before they turn into costly RFIs or schedule overruns  
 
-Get cited answers from the right documents instantly
+---
 
-Detect discrepancies before they turn into costly RFIs or schedule overruns
+## 🚀 Vision  
 
-🚀 Vision
+We’re building toward a **next-gen construction intelligence layer**:  
+- Advanced conflict detection powered by ML  
+- Dashboards for project risk forecasting  
+- Role-based insights for field staff, engineers, and executives  
 
-We’re building toward a next-gen construction intelligence layer:
+---
 
-Advanced conflict detection powered by ML
+# 🔧 Developer Documentation  
 
-Dashboards for project risk forecasting
+## Features  
 
-Role-based insights for field staff, engineers, and executives
+- **Multi-Source Integration** → Autodesk Docs, Procore, Primavera, Dropbox  
+- **Data Ingestion** → OCR, metadata tagging, chunking for efficient retrieval  
+- **AI-Powered Q&A** → Context-aware natural language answers with citations  
+- **Discrepancy Detection** → Automatically flags conflicts in documents and schedules  
 
-🔧 Developer Documentation
-Features
+---
 
-Multi-Source Integration
-Connect seamlessly with Autodesk Docs, Procore, Primavera, Dropbox, and other platforms.
+## 🏗️ Architecture  
 
-Smart Data Ingestion Pipeline
 
-OCR and text extraction for drawings, specifications, and documents
-
-Metadata tagging for project organization
-
-Document chunking for efficient retrieval
-
-AI-Powered Q&A Engine
-
-Context-aware natural language search
-
-Cited answers from relevant project documentation
-
-Scalable embeddings + vector database
-
-Discrepancy Detection
-Automatically flags conflicts in drawings, RFIs, and schedules before they cause rework.
 
 🏗️ Architecture
    [Integrations: Procore, Autodesk, Dropbox]
