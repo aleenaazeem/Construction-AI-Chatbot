@@ -68,18 +68,12 @@ Frontend: React/Next.js + TailwindCSS
 
 DevOps: Docker, Kubernetes, CI/CD pipelines
 
-📂 Project Structure
-construction-ai/
-│── integrations/        # Connectors for Procore, Autodesk, etc.
-│── ingestion/           # OCR, metadata tagging, chunking
-│── embeddings/          # Embedding generation + vector DB ops
-│── qa_engine/           # Retrieval + generative answering
-│── discrepancy/         # Conflict detection module
-│── frontend/            # Web app (React/Next.js)
-│── api/                 # REST/GraphQL APIs
-│── docs/                # Documentation, architecture diagrams
-│── tests/               # Unit and integration tests
-│── README.md
+## 📂 Project Structure
+ 
+<p>
+  <img src="structure.png" alt="Construction AI Q&A Engine Project Structure" width="40%" />
+</p>
+
 
 📊 Example Use Cases
 
