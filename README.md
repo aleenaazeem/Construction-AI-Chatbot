@@ -54,19 +54,12 @@ We’re building toward a **next-gen construction intelligence layer**:
 </p>
 
 
-⚙️ Tech Stack
+## ⚙️ Tech Stack
 
-Backend: Python (FastAPI/Flask), Node.js
+<p>
+  <img src="stack.png" alt="Construction AI Q&A Engine Tech Stack" width="40%" />
+</p>
 
-Data Processing: PyMuPDF, Tesseract OCR, LangChain
-
-Vector Store: Pinecone, Weaviate, or FAISS
-
-LLM Integration: OpenAI GPT, Hugging Face models
-
-Frontend: React/Next.js + TailwindCSS
-
-DevOps: Docker, Kubernetes, CI/CD pipelines
 
 ## 📂 Project Structure
  
