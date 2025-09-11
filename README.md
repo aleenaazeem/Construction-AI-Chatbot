@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Construction AI Q&A Engine" width="100%" />
+</p>
+
 🏗️ Construction AI Q&A Engine
 
 A smarter way for construction teams to find answers and avoid costly mistakes.
