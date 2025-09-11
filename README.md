@@ -50,7 +50,7 @@ We’re building toward a **next-gen construction intelligence layer**:
 ## 🏗️ System Architecture  
 
 <p align="center">
-  <img src="architecture.png" alt="Construction AI Q&A Engine Architecture" width="80%" />
+  <img src="architecture.png" alt="Construction AI Q&A Engine Architecture" width="40%" />
 </p>
 
 
